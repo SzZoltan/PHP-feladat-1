@@ -17,7 +17,7 @@ tulajdonsága is! (pl. elérhető nyelvek, pontok jó, rossz, üres válaszért 
 Egy felhasználó az email címe alapján egyedi, de ezeken kívül legyen még több
 tulajdonsága is! (pl. telefonszám, lakcím stb.)
 
-Alkalmazott technológiák:
+Technikai elvárások:
 
 ● GitLab vagy GitHub
 
