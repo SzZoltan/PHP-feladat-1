@@ -18,10 +18,18 @@ Egy felhasználó az email címe alapján egyedi, de ezeken kívül legyen még 
 tulajdonsága is! (pl. telefonszám, lakcím stb.)
 
 Alkalmazott technológiák:
+
 ● GitLab vagy GitHub
+
 ● PHP 8.x
+
 ● HTML5, CSS3, Bootstrap, JavaScript, jQuery
+
 ● UTF-8 kódolás
+
 ● MySQL adatbázis
+
 ● Mobilbarát, reszponzív változat
+
 ● Laravel 8.x vagy újabb
+
